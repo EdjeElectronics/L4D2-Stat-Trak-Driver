@@ -1,3 +1,7 @@
+# Author: Evan Juras
+# Date: 2/7/17
+# Description: Python script to control Left 4 Dead 2 Stat Tracker.
+
 #!/usr/bin/python
 import urllib.request
 from time import sleep
