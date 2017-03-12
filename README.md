@@ -1,5 +1,5 @@
 # L4D2-Stat-Trak-Driver
-Python 3 driver for Raspberry Pi-powered Left 4 Dead 2 Stat Tracker. Downloads Left 4 Dead 2 stats from a Steam profile page and displays them on an LCD. See my project video at 
+Python 3 driver for Raspberry Pi-powered Left 4 Dead 2 Stat Tracker. Downloads Left 4 Dead 2 stats from a Steam profile page and displays them on an LCD. See my project video at https://www.youtube.com/watch?v=8G3mvy-2taM!
 
 ## Dependencies
 Non-standard Python libraries that must be installed for Python 3 on your Raspberry Pi:
