@@ -26,7 +26,7 @@ sudo python3 setup.py install
 ```
 
 ## Usage
-Download or copy the StatTrakDriverRev0_2.py file into your home directory. Replace the URL string 'http://steamcommunity.com/id/e_van13/stats/L4D2' with the URL to your desired profile page.
+Download or copy the StatTrakDriverRev0_2.py file into your home directory (or wherever else you want it). Replace the URL string 'http://steamcommunity.com/id/e_van13/stats/L4D2' with the URL to your desired profile page.
 
 To configure this script to run on Pi power-up, add it to the rc.local file for your user account on Raspbian:
 
