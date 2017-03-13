@@ -150,7 +150,7 @@ while end == 0:
 # ii is used in this if-else statement to controls which stat is
 # displayed on the LCD (via the 'message' variable)
     if ii == 1 :
-        message = 'Taxi-guy\'s \nL4D2 stats'
+        message = 'Taxi-guy\'s \nL4D2 stats' #Replace 'Taxi-guy' with your username
 
     elif ii == 2 :
         message = 'Infected killed:\n' + Stats.str_killed
