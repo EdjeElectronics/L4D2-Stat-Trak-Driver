@@ -39,6 +39,6 @@ After the comments, add a command to run the StatTrakDriverRev0_2.py script, and
 ```
 python3 ~/StatTrakDriverRev0_2.py
 ```
-Note: If you don't have buttons installed, make sure you some other way to exit the infinite while loop if you configure it to run at start-up. If you don't have a way to exit it, your Pi will be forever stuck in startup and you'll have to put your SD card in another Linux machine to go in and edit the rc.local file and comment out the command to run the StatTrak script.
+Note: If you don't have buttons installed, make sure you have some other way to exit the infinite while loop if you configure it to run at start-up. If you don't have a way to exit it, your Pi will be forever stuck in startup and you'll have to put your SD card in another Linux machine to go in and edit the rc.local file and comment out the command to run the StatTrak script.
 
 
