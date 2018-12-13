@@ -12,7 +12,7 @@ pip3 install beautifulsoup4
 GPIO and gpiozero (should already be installed on Pi)
 
 ```
-sudo apt-get python3-gpiozero
+sudo apt-get install python3-gpiozero
 sudo pip3 install RPi.GPIO
 ```
 
